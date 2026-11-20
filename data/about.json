@@ -1,0 +1,34 @@
+{
+ "region": "경기 평택시 소사동",
+ "nameEn": "Pyeongtaek University",
+ "added": "2026-10-27T21:00",
+ "rank": 189,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "YONAM",
+   "campus": "연암대학교",
+   "km": 5.5
+  },
+  {
+   "code": "CAU-DAVINCI",
+   "campus": "중앙대학교 다빈치캠퍼스",
+   "km": 8.7
+  },
+  {
+   "code": "KOOKJE",
+   "campus": "국제대학교",
+   "km": 8.9
+  },
+  {
+   "code": "NSU",
+   "campus": "남서울대학교",
+   "km": 9.7
+  },
+  {
+   "code": "HKNU",
+   "campus": "한경국립대학교 안성캠퍼스",
+   "km": 11.7
+  }
+ ]
+}
